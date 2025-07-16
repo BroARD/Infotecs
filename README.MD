@@ -41,15 +41,7 @@ docker-compose -f docker-compose.yml up -d
 * `GET /api/transactions?count=N`: Выводит N последних транзакций
 * `GET /api/wallet/:wallet_id/balance`: Возвращает данные кошелька по Wallet_ID
 
-
-To use the starter kit as a starting point of a real project whose package name is `github.com/abc/xyz`, do a global 
-replacement of the string `github.com/qiangxue/go-rest-api` in all of project files with the string `github.com/abc/xyz`.
-
-
-## Project Layout
-
-The starter kit uses the following project layout:
- 
+## Project Layout 
 ```
 ├───cmd                  
 │   └───api              main файл для запуска
