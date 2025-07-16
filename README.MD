@@ -17,7 +17,7 @@
 ```shell
 # Клонировать репозиторий:
 
-git clonehttps://github.com/BroARD/Infotecs.git
+git clone https://github.com/BroARD/Infotecs.git
 
 # Перейти в директорию:
 
