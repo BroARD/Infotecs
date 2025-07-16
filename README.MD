@@ -41,7 +41,7 @@ docker-compose -f docker-compose.yml up -d
 }
 ```
 * `GET /api/transactions?count=N`: Выводит N последних транзакций
-* `GET /api/wallet/:wallet_id/balance`: Возвращает данные кошелька по Wallet_ID
+* `GET /api/wallet/:wallet_id/balance`: Возвращает баланс кошелька по Wallet_ID
 
 ## Project Layout 
 ```
